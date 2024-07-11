@@ -1,0 +1,7 @@
+management-resource-group rg-aek4z5odcnzoo6a
+
+staging-resource-group
+rg-aek4yuhqq52455q
+
+production-resource-group
+rg-aek4waskggjv6lq

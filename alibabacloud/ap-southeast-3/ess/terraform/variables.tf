@@ -1,5 +1,6 @@
 variable "image_tag" {
   description = "The Docker image tag."
+  default     = "2414_20"
   type        = string
 }
 
